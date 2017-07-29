@@ -31,7 +31,7 @@ _setupObjects =
 	{
 		(_heliChoices select 0) set [0, "O_T_VTOL_02_infantry_F"];
 		(_heliChoices select 1) set [0, "O_T_VTOL_02_infantry_F"];
-		(_heliChoices select 2) set [0, "B_T_VTOL_01_armed_F"];
+		(_heliChoices select 2) set [0, "O_T_VTOL_02_infantry_F"];
 	};
 
 	_convoyVeh = _heliChoices call BIS_fnc_selectRandom;

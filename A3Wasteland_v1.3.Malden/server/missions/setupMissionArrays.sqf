@@ -46,7 +46,7 @@ MainMissions =
 	["mission_Coastal_Convoy", 0.6],
 	["mission_Convoy", 1],
 	//["mission_Hackers", 0.5],
-	["mission_HostileHeliFormation", 0.8],
+	["mission_HostileHeliFormation", 0.3],
 	["mission_HostileJetFormation", 1],
 	["mission_APC", 0.5],
 	["mission_MBT", 0.4],
